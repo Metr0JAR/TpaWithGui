@@ -1,6 +1,12 @@
+## 💬 Support
+
+Found a bug or need help? [Join the Discord](https://discord.gg/ZYPbDzf7Sc) to report it.
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZYPbDzf7Sc)
 # Tpa 🌀🖥️
 
-A teleport-request plugin with full GUI confirmation menus — no more guessing who accepted what. Send, accept, decline, and cancel requests through clean point-and-click menus, or fall back to plain commands. ✨
+A teleport-request plugin with full GUI confirmation menus — no more guessing who accepted what. Send, accept,<img width="746" height="409" alt="image" src="https://github.com/user-attachments/assets/0ff55d5f-6b2a-41e7-b566-c7b09de74172" />
+ decline, and cancel requests through clean point-and-click menus, or fall back to plain commands. ✨
 
 ---
 
